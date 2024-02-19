@@ -7,6 +7,6 @@ const port = 9000;
 
 
 
-server.listen(port, () => {
-    console.log(`Server running on port ${port}`);
+server.listen(9000, () => {
+    console.log(`Server running on port 9000`);
 });
